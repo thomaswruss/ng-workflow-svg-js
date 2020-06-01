@@ -1,0 +1,14 @@
+{
+  "name": "ng-workflow-svg-js",
+  "version": "0.0.1-beta",
+  "peerDependencies": {
+    "@angular/common": "^9.1.9",
+    "@angular/core": "^9.1.9",
+    "workflow-svg.js": "^1.1.0",
+    "@svgdotjs/svg.draggable.js": "^3.0.2",
+    "@svgdotjs/svg.js": "^3.0.16"
+  },
+  "dependencies": {
+    "tslib": "^1.10.0"
+  }
+}
