@@ -1,0 +1,6 @@
+/*
+ * Public API Surface of ng-workflow-svg-js
+ */
+export * from './lib/ng-workflow-svg-js.component';
+export * from './lib/ng-workflow-svg-js.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL25nLXdvcmtmbG93LXN2Zy1qcy8iLCJzb3VyY2VzIjpbInB1YmxpYy1hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7O0dBRUc7QUFFSCxjQUFjLG9DQUFvQyxDQUFDO0FBQ25ELGNBQWMsaUNBQWlDLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIG5nLXdvcmtmbG93LXN2Zy1qc1xuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL25nLXdvcmtmbG93LXN2Zy1qcy5jb21wb25lbnQnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvbmctd29ya2Zsb3ctc3ZnLWpzLm1vZHVsZSc7XG4iXX0=

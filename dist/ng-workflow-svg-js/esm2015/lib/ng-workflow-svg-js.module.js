@@ -1,0 +1,14 @@
+import { __decorate } from "tslib";
+import { NgModule } from '@angular/core';
+import { NgWorkflowSvgJsComponent } from './ng-workflow-svg-js.component';
+let NgWorkflowSvgJsModule = class NgWorkflowSvgJsModule {
+};
+NgWorkflowSvgJsModule = __decorate([
+    NgModule({
+        declarations: [NgWorkflowSvgJsComponent],
+        imports: [],
+        exports: [NgWorkflowSvgJsComponent]
+    })
+], NgWorkflowSvgJsModule);
+export { NgWorkflowSvgJsModule };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibmctd29ya2Zsb3ctc3ZnLWpzLm1vZHVsZS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL25nLXdvcmtmbG93LXN2Zy1qcy8iLCJzb3VyY2VzIjpbImxpYi9uZy13b3JrZmxvdy1zdmctanMubW9kdWxlLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7QUFBQSxPQUFPLEVBQUUsUUFBUSxFQUFFLE1BQU0sZUFBZSxDQUFDO0FBQ3pDLE9BQU8sRUFBRSx3QkFBd0IsRUFBRSxNQUFNLGdDQUFnQyxDQUFDO0FBVTFFLElBQWEscUJBQXFCLEdBQWxDLE1BQWEscUJBQXFCO0NBQUksQ0FBQTtBQUF6QixxQkFBcUI7SUFOakMsUUFBUSxDQUFDO1FBQ1IsWUFBWSxFQUFFLENBQUMsd0JBQXdCLENBQUM7UUFDeEMsT0FBTyxFQUFFLEVBQ1I7UUFDRCxPQUFPLEVBQUUsQ0FBQyx3QkFBd0IsQ0FBQztLQUNwQyxDQUFDO0dBQ1cscUJBQXFCLENBQUk7U0FBekIscUJBQXFCIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgTmdNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9jb3JlJztcclxuaW1wb3J0IHsgTmdXb3JrZmxvd1N2Z0pzQ29tcG9uZW50IH0gZnJvbSAnLi9uZy13b3JrZmxvdy1zdmctanMuY29tcG9uZW50JztcclxuXHJcblxyXG5cclxuQE5nTW9kdWxlKHtcclxuICBkZWNsYXJhdGlvbnM6IFtOZ1dvcmtmbG93U3ZnSnNDb21wb25lbnRdLFxyXG4gIGltcG9ydHM6IFtcclxuICBdLFxyXG4gIGV4cG9ydHM6IFtOZ1dvcmtmbG93U3ZnSnNDb21wb25lbnRdXHJcbn0pXHJcbmV4cG9ydCBjbGFzcyBOZ1dvcmtmbG93U3ZnSnNNb2R1bGUgeyB9XHJcbiJdfQ==

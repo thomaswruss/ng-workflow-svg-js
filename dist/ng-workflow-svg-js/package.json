@@ -1,0 +1,24 @@
+{
+  "name": "ng-workflow-svg-js",
+  "version": "0.0.1-beta",
+  "peerDependencies": {
+    "@angular/common": "^9.1.9",
+    "@angular/core": "^9.1.9",
+    "workflow-svg.js": "^1.1.0",
+    "@svgdotjs/svg.draggable.js": "^3.0.2",
+    "@svgdotjs/svg.js": "^3.0.16"
+  },
+  "dependencies": {
+    "tslib": "^1.10.0"
+  },
+  "main": "bundles/ng-workflow-svg-js.umd.js",
+  "module": "fesm5/ng-workflow-svg-js.js",
+  "es2015": "fesm2015/ng-workflow-svg-js.js",
+  "esm5": "esm5/ng-workflow-svg-js.js",
+  "esm2015": "esm2015/ng-workflow-svg-js.js",
+  "fesm5": "fesm5/ng-workflow-svg-js.js",
+  "fesm2015": "fesm2015/ng-workflow-svg-js.js",
+  "typings": "ng-workflow-svg-js.d.ts",
+  "metadata": "ng-workflow-svg-js.metadata.json",
+  "sideEffects": false
+}
