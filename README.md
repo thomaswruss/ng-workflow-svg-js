@@ -1,4 +1,4 @@
-# NgWorkflowSvgJs
+# ng-workflow-svg-js
 
 [workflow-svg.js](https://github.com/thomaswruss/workflow-svg.js) is a library to display workflows as SVG. This library  is an Angular Wrapper for it.
 
