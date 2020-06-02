@@ -1,6 +1,8 @@
 {
   "name": "ng-workflow-svg-js-workspace",
+  "author": {"name": "Thomas Wruß"},
   "version": "0.0.0",
+  "license": "MIT",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -45,5 +47,6 @@
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
     "typescript": "~3.8.3"
-  }
+  },
+  "keywords": ["angular", "ng", "ngx", "wrapper", "js", "svg", "workflow", "editor", "configurable", "edit-workflows", "workflow-svg", "workflow-management"]
 }
