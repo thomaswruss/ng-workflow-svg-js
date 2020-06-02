@@ -48,5 +48,6 @@
     "tslint": "~6.1.0",
     "typescript": "~3.8.3"
   },
-  "keywords": ["angular", "ng", "ngx", "wrapper", "js", "svg", "workflow", "editor", "configurable", "edit-workflows", "workflow-svg", "workflow-management"]
+  "keywords": ["angular", "ng", "ngx", "wrapper", "js", "svg", "workflow", "editor", "configurable", "edit-workflows", "workflow-svg", "workflow-management"],
+  "repository": {"type":"git", "url": "https://github.com/thomaswruss/ng-workflow-svg-js"}
 }
