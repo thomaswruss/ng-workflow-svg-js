@@ -3,7 +3,7 @@
   "author": {
     "name": "Thomas Wruß"
   },
-  "version": "0.0.1-beta",
+  "version": "0.0.1-beta1",
   "license": "MIT",
   "peerDependencies": {
     "@angular/common": "^9.1.9",
