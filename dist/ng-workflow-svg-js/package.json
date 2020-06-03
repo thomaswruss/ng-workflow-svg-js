@@ -1,6 +1,10 @@
 {
   "name": "ng-workflow-svg-js",
+  "author": {
+    "name": "Thomas Wruß"
+  },
   "version": "0.0.1-beta",
+  "license": "MIT",
   "peerDependencies": {
     "@angular/common": "^9.1.9",
     "@angular/core": "^9.1.9",
@@ -10,6 +14,24 @@
   },
   "dependencies": {
     "tslib": "^1.10.0"
+  },
+  "keywords": [
+    "angular",
+    "ng",
+    "ngx",
+    "wrapper",
+    "js",
+    "svg",
+    "workflow",
+    "editor",
+    "configurable",
+    "edit-workflows",
+    "workflow-svg",
+    "workflow-management"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thomaswruss/ng-workflow-svg-js"
   },
   "main": "bundles/ng-workflow-svg-js.umd.js",
   "module": "fesm5/ng-workflow-svg-js.js",
